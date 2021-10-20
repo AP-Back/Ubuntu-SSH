@@ -19,6 +19,17 @@ Here are some useful notes to using this tool brewed with black magic xD !
 4. After few mins the script will spam *SSH* in Terminal , Enjoy !
 
 
+Supported runners and hardware resources
+
+Hardware specification for Windows and Linux virtual machines:
+
+1.  2-core CPU
+
+2.  7 GB of RAM memory
+
+3.  14 GB of SSD disk space
+
+
 #### Credits and Thanks to People Who Helped me ####
 
 Script Made by [***Aryan Sinha***](https://github.com/techyminati)
